@@ -24,9 +24,22 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="20" height="20"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="50" height="50"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="50" height="50"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
 </p>
 
 <p align="center">
@@ -34,9 +47,19 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href="https://dev.to/pranaypaine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pranaypaine" height="40" width="40" /></a>
-<a href="https://twitter.com/pranaypaine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pranaypaine" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/pranaykumarpaine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranaykumarpaine" height="40" width="40" /></a>
-<a href="https://fb.com/pranaykumarpaine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pranaykumarpaine" height="40" width="40" /></a>
-<a href="https://instagram.com/pranaypaine" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pranaypaine" height="40" width="40" /></a>
+<a href="https://dev.to/pranaypaine" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pranaypaine" height="40" width="40" />
+</a>
+<a href="https://twitter.com/pranaypaine" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pranaypaine" height="40" width="40" />
+</a>
+<a href="https://linkedin.com/in/pranaykumarpaine" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranaykumarpaine" height="40" width="40" />
+</a>
+<a href="https://fb.com/pranaykumarpaine" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pranaykumarpaine" height="40" width="40" />
+</a>
+<a href="https://instagram.com/pranaypaine" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pranaypaine" height="40" width="40" />
+</a>
 </p>
