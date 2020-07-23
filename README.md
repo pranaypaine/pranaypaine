@@ -42,24 +42,31 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Golang, Fiber, Rust, UI/UX**
 - 📫 How to reach me **pranaykumarpaine@gmail.com**
 
+[![Twitter: pranaypaine](https://img.shields.io/twitter/follow/pranaypaine?style=social)](https://twitter.com/pranaypaine)
+[![Linkedin: pranaykumarpaine](https://img.shields.io/badge/-pranaykumarpaine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranaykumarpaine/)](https://www.linkedin.com/in/pranaykumarpaine/)
+[![GitHub pranaypaine](https://img.shields.io/github/followers/pranaypaine?label=follow&style=social)](https://github.com/pranaypaine)
+[![website](https://img.shields.io/badge/PortfolioWebsite-pranay.dev-2648ff?style=flat-square&logo=google-chrome)](https://pranay.dev/)
 
-<p align="center">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="50" height="50"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="50" height="50"/> 
-  <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
+
+**Languages and Tools used:**  
+
+<p align="left">
+<img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="30px"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices"  height="30px"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="30px"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" height="30px"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" height="30px"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" height="30px"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="30px"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="30px"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="30px"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30px"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" height="30px"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="30px"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" height="30px"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" height="30px"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" height="30px"/> 
+<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" height="30px"/>
 </p>
 
 <a href="https://github.com/pranaypaine">
