@@ -52,7 +52,7 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranaypaine&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
 </a>
 
-<p>
+<p align="center">
 <a href="https://dev.to/pranaypaine" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pranaypaine" height="40" width="40" />
 </a>
