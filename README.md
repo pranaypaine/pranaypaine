@@ -42,15 +42,14 @@ Here are some ideas to get you started:
   <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranaypaine&show_icons=true" alt="pranaypaine" />
-</p> -->
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypaine&theme=dark&hide_langs_below=1" />
+<p>
+<a href="https://github.com/pranaypaine">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypaine&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranaypaine&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
+<a href="https://github.com/pranaypaine">
+ <img src="https://github-readme-stats.vercel.app/api?username=pranaypaine&show_icons=true" alt="pranaypaine" />
 </a>
+</p>
 
 <p align="center">
 <a href="https://dev.to/pranaypaine" target="blank">
