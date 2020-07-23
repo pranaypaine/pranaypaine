@@ -14,8 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Pranay Kumar Paine</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1>Hi 👋, I'm Pranay Kumar Paine</h1>
+<h3>A passionate full stack developer from India</h3>
+<p>
+<a href="https://dev.to/pranaypaine" target="blank">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pranaypaine" width="22px" />
+</a>
+<a href="https://twitter.com/pranaypaine" target="blank">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pranaypaine" width="22px" />
+</a>
+<a href="https://linkedin.com/in/pranaykumarpaine" target="blank">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranaykumarpaine" width="22px" />
+</a>
+<a href="https://fb.com/pranaykumarpaine" target="blank">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pranaykumarpaine" width="22px" />
+</a>
+<a href="https://instagram.com/pranaypaine" target="blank">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pranaypaine" width="22px" />
+</a>
+</p>
+<br>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranaypaine" alt="pranaypaine" /> </p>
 
 
@@ -49,20 +69,3 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranaypaine&show_icons=true&theme=light&line_height=27" alt="pranay's github stats"/>
 </a>
 
-<p align="center">
-<a href="https://dev.to/pranaypaine" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pranaypaine" height="40" width="40" />
-</a>
-<a href="https://twitter.com/pranaypaine" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="pranaypaine" height="40" width="40" />
-</a>
-<a href="https://linkedin.com/in/pranaykumarpaine" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pranaykumarpaine" height="40" width="40" />
-</a>
-<a href="https://fb.com/pranaykumarpaine" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pranaykumarpaine" height="40" width="40" />
-</a>
-<a href="https://instagram.com/pranaypaine" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pranaypaine" height="40" width="40" />
-</a>
-</p>
