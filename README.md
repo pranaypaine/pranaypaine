@@ -79,6 +79,8 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://simpleicons.org/icons/amazonaws.svg" alt="amazonwebservices"  height="30px"/>
 <img src="https://simpleicons.org/icons/googlecloud.svg" alt="googlecloud"  height="30px"/>
+<img src="https://simpleicons.org/icons/digitalocean.svg" alt="digitalocean"  height="30px"/>
+<img src="https://simpleicons.org/icons/docker.svg" alt="docker"  height="30px"/>
 <img src="https://simpleicons.org/icons/sublimetext.svg" alt="sublime"  height="30px"/>
 <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="vscode"  height="30px"/>
 <img src="https://simpleicons.org/icons/adobexd.svg" alt="adobexd"  height="30px"/>
@@ -86,7 +88,9 @@ Here are some ideas to get you started:
 <img src="https://simpleicons.org/icons/asana.svg" alt="asana"  height="30px"/>
 <img src="https://simpleicons.org/icons/trello.svg" alt="trello"  height="30px"/>
 <img src="https://simpleicons.org/icons/slack.svg" alt="slack"  height="30px"/>
+<img src="https://simpleicons.org/icons/gitter.svg" alt="gitter"  height="30px"/>
 <img src="https://simpleicons.org/icons/tor.svg" alt="tor"  height="30px"/>
+<img src="https://simpleicons.org/icons/github.svg" alt="github"  height="30px"/>
 </p>
 
 **Dev Machines:**
