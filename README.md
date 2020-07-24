@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 **Languages and Tools used:**  
 
 <p align="left">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="30px"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices"  height="30px"/>
+<img src="https://simpleicons.org/icons/vue-dot-js.svg" alt="vuejs" height="30px"/>
+<img src="https://simpleicons.org/icons/amazonaws.svg" alt="amazonwebservices"  height="30px"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="30px"/>
 <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" height="30px"/> 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" height="30px"/> 
