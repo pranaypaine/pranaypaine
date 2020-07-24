@@ -89,6 +89,12 @@ Here are some ideas to get you started:
 <img src="https://simpleicons.org/icons/tor.svg" alt="tor"  height="30px"/>
 </p>
 
+**Dev Machines:**
+<p align="left">
+<img src="https://simpleicons.org/icons/apple.svg" alt="apple"  height="30px"/>
+<img src="https://simpleicons.org/icons/linux.svg" alt="linux"  height="30px"/>
+<img src="https://simpleicons.org/icons/windows.svg" alt="windows"  height="30px"/>  
+</p>
 
 <a href="https://github.com/pranaypaine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypaine&show_icons=true&theme=light&hide_langs_below=1" />
