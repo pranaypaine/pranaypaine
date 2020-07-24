@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 <img src="https://simpleicons.org/icons/php.svg" alt="php" height="30px"/> 
 <img src="https://simpleicons.org/icons/rubyonrails.svg" alt="rails" height="30px"/>
 <img src="https://simpleicons.org/icons/ruby.svg" alt="ruby" height="30px"/>
+<img src="https://simpleicons.org/icons/rust.svg" alt="rust" height="30px"/>
+<img src="https://simpleicons.org/icons/flutter.svg" alt="flutter" height="30px"/>
+<img src="https://simpleicons.org/icons/materialdesign.svg" alt="materilze" height="30px"/>
 </p>
 
 **Databases:**
@@ -79,6 +82,11 @@ Here are some ideas to get you started:
 <img src="https://simpleicons.org/icons/sublimetext.svg" alt="sublime"  height="30px"/>
 <img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="vscode"  height="30px"/>
 <img src="https://simpleicons.org/icons/adobexd.svg" alt="adobexd"  height="30px"/>
+<img src="https://simpleicons.org/icons/jira.svg" alt="jira"  height="30px"/>
+<img src="https://simpleicons.org/icons/asana.svg" alt="asana"  height="30px"/>
+<img src="https://simpleicons.org/icons/trello.svg" alt="trello"  height="30px"/>
+<img src="https://simpleicons.org/icons/slack.svg" alt="slack"  height="30px"/>
+<img src="https://simpleicons.org/icons/tor.svg" alt="tor"  height="30px"/>
 </p>
 
 
