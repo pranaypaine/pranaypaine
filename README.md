@@ -48,26 +48,39 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/PortfolioWebsite-pranay.dev-2648ff?style=flat-square&logo=google-chrome)](https://pranay.dev/)
 
 
-**Languages and Tools used:**  
+**Languages and frameworks:**  
 
 <p align="left">
+<img src="https://simpleicons.org/icons/python.svg" alt="python" height="30px"/>
+<img src="https://simpleicons.org/icons/django.svg" alt="django" height="30px"/>
 <img src="https://simpleicons.org/icons/vue-dot-js.svg" alt="vuejs" height="30px"/>
-<img src="https://simpleicons.org/icons/amazonaws.svg" alt="amazonwebservices"  height="30px"/>
 <img src="https://simpleicons.org/icons/bootstrap.svg" alt="bootstrap" height="30px"/>
-<img src="https://simpleicons.org/icons/django.svg" alt="django" height="30px"/> 
 <img src="https://simpleicons.org/icons/electron.svg" alt="electron" height="30px"/> 
 <img src="https://simpleicons.org/icons/go.svg" alt="go" height="30px"/> 
 <img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="30px"/> 
 <img src="https://simpleicons.org/icons/laravel.svg" alt="laravel" height="30px"/> 
+<img src="https://simpleicons.org/icons/php.svg" alt="php" height="30px"/> 
+<img src="https://simpleicons.org/icons/rubyonrails.svg" alt="rails" height="30px"/>
+<img src="https://simpleicons.org/icons/ruby.svg" alt="ruby" height="30px"/>
+</p>
+
+**Databases**
+<p align="left">
 <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="30px"/> 
 <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="30px"/> 
-<img src="https://simpleicons.org/icons/php.svg" alt="php" height="30px"/> 
 <img src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql" height="30px"/> 
 <img src="https://simpleicons.org/icons/redis.svg" alt="redis" height="30px"/>
-<img src="https://simpleicons.org/icons/rubyonrails.svg" alt="rails" height="30px"/>
-<img src="https://simpleicons.org/icons/ruby.svg" alt="ruby" height="30px"/> 
-<img src="https://simpleicons.org/icons/python.svg" alt="python" height="30px"/>
 </p>
+
+**Tools:**
+<p align="left">
+<img src="https://simpleicons.org/icons/amazonaws.svg" alt="amazonwebservices"  height="30px"/>
+<img src="https://simpleicons.org/icons/googlecloud.svg" alt="googlecloud"  height="30px"/>
+<img src="https://simpleicons.org/icons/sublimetext.svg" alt="sublime"  height="30px"/>
+<img src="https://simpleicons.org/icons/visualstudiocode.svg" alt="vscode"  height="30px"/>
+<img src="https://simpleicons.org/icons/adobexd.svg" alt="adobexd"  height="30px"/>
+</p>
+
 
 <a href="https://github.com/pranaypaine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypaine&show_icons=true&theme=light&hide_langs_below=1" />
