@@ -53,20 +53,20 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://simpleicons.org/icons/vue-dot-js.svg" alt="vuejs" height="30px"/>
 <img src="https://simpleicons.org/icons/amazonaws.svg" alt="amazonwebservices"  height="30px"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" height="30px"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" height="30px"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" height="30px"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" height="30px"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="30px"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="30px"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="30px"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30px"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" height="30px"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="30px"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" height="30px"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" height="30px"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" height="30px"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" height="30px"/>
+<img src="https://simpleicons.org/icons/bootstrap.svg" alt="bootstrap" height="30px"/>
+<img src="https://simpleicons.org/icons/django.svg" alt="django" height="30px"/> 
+<img src="https://simpleicons.org/icons/electron.svg" alt="electron" height="30px"/> 
+<img src="https://simpleicons.org/icons/go.svg" alt="go" height="30px"/> 
+<img src="https://simpleicons.org/icons/html5.svg" alt="html5" height="30px"/> 
+<img src="https://simpleicons.org/icons/laravel.svg" alt="laravel" height="30px"/> 
+<img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="30px"/> 
+<img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="30px"/> 
+<img src="https://simpleicons.org/icons/php.svg" alt="php" height="30px"/> 
+<img src="https://simpleicons.org/icons/postgresql.svg" alt="postgresql" height="30px"/> 
+<img src="https://simpleicons.org/icons/redis.svg" alt="redis" height="30px"/>
+<img src="https://simpleicons.org/icons/rubyonrails.svg" alt="rails" height="30px"/>
+<img src="https://simpleicons.org/icons/ruby.svg" alt="ruby" height="30px"/> 
+<img src="https://simpleicons.org/icons/python.svg" alt="python" height="30px"/>
 </p>
 
 <a href="https://github.com/pranaypaine">
