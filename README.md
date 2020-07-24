@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <img src="https://simpleicons.org/icons/ruby.svg" alt="ruby" height="30px"/>
 </p>
 
-**Databases**
+**Databases:**
 <p align="left">
 <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" height="30px"/> 
 <img src="https://simpleicons.org/icons/mysql.svg" alt="mysql" height="30px"/> 
