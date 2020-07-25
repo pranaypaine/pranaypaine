@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://simpleicons.org/icons/python.svg" alt="python" height="30px"/>
 <img src="https://simpleicons.org/icons/django.svg" alt="django" height="30px"/>
+<img src="https://simpleicons.org/icons/flask.svg" alt="flask" height="30px"/>
 <img src="https://simpleicons.org/icons/vue-dot-js.svg" alt="vuejs" height="30px"/>
 <img src="https://simpleicons.org/icons/bootstrap.svg" alt="bootstrap" height="30px"/>
 <img src="https://simpleicons.org/icons/electron.svg" alt="electron" height="30px"/> 
