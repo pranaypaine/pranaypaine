@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1>Hi 👋, I'm Pranay Kumar Paine</h1>
 <h3>A passionate full stack developer from India</h3>
-<h3>( I'm just a developer, not any god father! )</h3>
+
 <p>
 <a href="https://dev.to/pranaypaine" target="blank">
   <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pranaypaine" width="22px" />
