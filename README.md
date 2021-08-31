@@ -51,6 +51,22 @@ Here are some ideas to get you started:
 
 **Languages and frameworks:**  
 
+
+<!-- ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=yellow&color=lightgrey)
+![](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart&logoColor=blue&color=lightgrey)
+![](https://img.shields.io/badge/Django-informational?style=for-the-badge&logo=django&logoColor=green&color=lightgrey)
+![](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=lightgrey)
+![](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter&logoColor=blue&color=lightgrey)
+
+
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=success)
+![](https://img.shields.io/badge/IDE-AndroidStudio-informational?style=flat&logo=android-studio&logoColor=green&color=success)
+
+![](https://img.shields.io/badge/DB-Postgres-informational?style=flat&logo=postgresql&logoColor=blue&color=success)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=green&color=success)
+![](https://img.shields.io/badge/Tool-FireBase-informational?style=flat&logo=firebase&logoColor=yellow&color=success) -->
+
+
 <p align="left">
 <img src="https://simpleicons.org/icons/python.svg" alt="python" height="30px"/>
 <img src="https://simpleicons.org/icons/django.svg" alt="django" height="30px"/>
