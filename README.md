@@ -49,10 +49,4 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/PortfolioWebsite-pranay.dev-2648ff?style=flat-square&logo=google-chrome)](https://pranay.dev/)
 
 
-<a href="https://github.com/pranaypaine">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypaine&show_icons=true&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/pranaypaine">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranaypaine&show_icons=true&theme=light&line_height=27" alt="pranay's github stats"/>
-</a>
 
