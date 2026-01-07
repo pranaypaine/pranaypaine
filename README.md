@@ -102,11 +102,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pranaypaine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=pranaypaine&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranaypaine&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranaypaine&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+<!-- <div align="center">
+  <img src="https://streak-stats.demolab.com?user=pranaypaine&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranaypaine&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F6FEB&custom_title=Contribution%20Graph" alt="Contribution Graph" width="48%" />
 </div>
 
@@ -116,7 +117,7 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pranaypaine&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 ---
 
